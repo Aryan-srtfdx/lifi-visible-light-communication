@@ -73,7 +73,7 @@ An LDR detects variations in the LED light intensity. The received signal is pro
 
 ---
 
-## Future Improvements
+## Future Improvements\
 
 - Increase transmission distance
 - Implement higher data rate communication
